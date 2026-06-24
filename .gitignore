@@ -1,0 +1,7 @@
+## .NET / Visual Studio
+bin/
+obj/
+*.user
+.vs/
+[Tt]est[Rr]esults/
+*.nupkg
